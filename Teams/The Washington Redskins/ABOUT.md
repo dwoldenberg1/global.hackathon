@@ -5,6 +5,8 @@ Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Epis
 
 Please support us and share your experiences/money with us on our [team page](https://www.facebook.com/thewashingtonredskinshack)!
 
+Check out our actual site [her](http://kidovate.koding.io)!
+
 ## About our team
 
 | Ethan | David | Christian | James | Jake
